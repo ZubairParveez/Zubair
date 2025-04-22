@@ -1,80 +1,48 @@
-Hi 
-<!-- Header Image -->
+Hi
+<!-- Header image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B8BBE,100:306998&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=40&fontAlignY=40" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B8BBE,100:306998&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=40&fontAlignY=40" alt="header" />
 </p>
 
+### 👋 Hey there! I'm [Zubair ]
+
+🎓 Currently diving deep into **Data Analysis** through a specialized course.  
+📊 Passionate about uncovering insights from data and building cool things with code.
+
+---
+
+### 🧰 Skills & Tools
+- 🐍 **Python** for data wrangling, analysis, and automation  
+- 🧠 **SQL** for efficient data queries and manipulation  
+- 📊 **Excel** for spreadsheets, reports, and dashboards  
+- 📈 **Power BI** for data visualization and storytelling
+
+---
+
+### 🚀 What I’m Working On
+- Learning advanced data analysis techniques  
+- Building Python and SQL-based projects  
+- Creating dashboards in Power BI and Excel  
+- Publishing my learnings and projects here on GitHub
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4B8BBE&center=true&vCenter=true&width=500&lines=Hi+There!+👋;I+am+a+Data+Enthusiast;Learning+Data+Analysis+Daily;Let’s+Build+Something+Great!" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 ---
 
-### 👤 About Me
-
-<p align="center">
-  <img src="https://img.icons8.com/color/480/data-configuration.png" width="120" />
-</p>
-
-- 📚 Currently learning **Data Analysis**
-- 📍 Working with **Python, SQL, Excel, Power BI**
-- ⚡ Love automating things & uncovering insights
-- 🚀 Passionate about making data useful & beautiful
+### 🌐 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![Mail](https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 ---
 
-### 💡 Skills & Technologies
-
-<p align="center">
-  <img src="https://img.icons8.com/color/100/000000/python--v1.png" title="Python"/>
-  <img src="https://img.icons8.com/color/100/000000/sql.png" title="SQL"/>
-  <img src="https://img.icons8.com/color/100/000000/microsoft-excel-2019--v1.png" title="Excel"/>
-  <img src="https://img.icons8.com/color/100/000000/power-bi.png" title="Power BI"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/100/000000/external-data-analytics-web-flaticons-lineal-color-flat-icons.png" title="Data Analytics"/>
-</p>
-
----
-
-### 📂 Projects & Learning
-
-<p align="center">
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/100/000000/external-project-management-agile-flaticons-lineal-color-flat-icons.png"/>
-</p>
-
-- 🧪 **Data Cleaning Projects** using pandas & openpyxl  
-- 📊 **Power BI Dashboards** for real-world data  
-- 🧠 **SQL Case Studies** using complex queries  
-- 🔧 **Excel Automation Tools** with formulas + VBA  
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🌍 Connect with Me
-
-<p align="center">
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" title="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-link/">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" title="LinkedIn"/>
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-portfolio-digital-nomading-flaticons-lineal-color-flat-icons.png" title="Portfolio"/>
-  </a>
-</p>
-
----
-
-<!-- Footer Image -->
+<!-- Footer image -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:306998,100:4B8BBE&height=120&section=footer"/>
 </p>
