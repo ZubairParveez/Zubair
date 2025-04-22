@@ -5,7 +5,7 @@ Hi, Everyone
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B8BBE,100:306998&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=40&fontAlignY=40" alt="header" />
 </p>
 
-### 👋 Hello there! I'm [Your Name]
+### 👋 Hello there! I'm [Zubair ]
 
 I’m a passionate data enthusiast and problem solver with a strong command of:
 - 🐍 **Python** for automation, data analysis, and building tools
